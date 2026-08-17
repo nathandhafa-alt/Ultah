@@ -84,7 +84,6 @@ function ForestCave() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.9 }}
           >
-            <PhotoFrame label="Manusia beauty" variant="vine" aspect="1 / 1" src="/public/3.png" />
           </motion.div>
           <motion.div
             initial={{ opacity: 0, x: 20 }}
