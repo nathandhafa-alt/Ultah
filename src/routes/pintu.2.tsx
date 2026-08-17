@@ -69,6 +69,7 @@ function ForestCave() {
           style={{ opacity: darkOpacity, backgroundImage: `url(${forestDark})` }}
           className="absolute inset-0 bg-cover bg-center"
         />
+         <PhotoFrame label="Sang Ratu Muda" aspect="4 / 5" src="/3.jpeg" />
         <motion.div
           aria-hidden
           style={{ opacity: caveOpacity, backgroundImage: `url(${caveCrystal})` }}
