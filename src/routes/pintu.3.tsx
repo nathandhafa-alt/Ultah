@@ -70,7 +70,7 @@ function RomancePage() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.9 }}
           >
-            <PhotoFrame label="Couple Terbaik❤️‍🔥" variant="rose" aspect="4 / 5" src="/public/7.png" />
+            <PhotoFrame label="Couple Terbaik❤️‍🔥" variant="rose" aspect="4 / 5" src="/7.png" />
           </motion.div>
           <motion.div
             initial={{ opacity: 0, x: 30 }}
