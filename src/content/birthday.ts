@@ -105,26 +105,3 @@ export const journey = [
   { label: "Mahkota", note: `Selamat ulang tahun, ${person.name}` },
 ];
 
-export const photoSlotsRoyal = [
-  { label: "Kenangan Pertama", src: "/public/8.png" },
-  { label: "Momen Bersama Mahes", src: "/public/2.png" },
-  { label: "Hari yang Cukup", src: "/public/10.png" },
-  { label: "Pose Bahagia", src: "/public/11.png" },
-  { label: "Fokus", src: "/public/12.png" },
-  { label: "Momen Lain", src: "/public/13.png" },
-];
-
-export const photoSlotsForest = [
-  { label: "Tawa Kebahagiaan", src: "/public/4.png" },
-  { label: "Pemberani", src: "/public/11.png" },
-  { label: "Alam Banget", src: "/public/9.png" },
-  { label: "Menemukan Cahaya", src: "/public/13.png" },
-  { label: "Senja di Hutan", src: "/public/6.png" },
-  { label: "Senja di Hutan", src: "/public/14.png" },
-];
-
-export const photoSlotsRomance = [
-  { label: "Kutu Buku", src: "/public/18.png" },
-  { label: "Momen Bahagia", src: "/public/17.png" },
-  { label: "Ekspresi", src: "/public/16.png" },
-];
